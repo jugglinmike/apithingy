@@ -1,0 +1,3 @@
+credentials/*
+!credentials/*.cast5
+node_modules/
